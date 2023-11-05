@@ -1,25 +1,18 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Sales Predictions
+## Sales prediction for food items sold at various stores
 
-**Author**: 
+**Haouari Ahmed Anas**: 
 
-### Business problem:
+### This project is a sales prediction for food items sold at various stores. The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
-Here is where you state the business problem you were trying to solve
+## Data Source:
+Big Mart Sales Prediction : https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
+For this dataset, there were 8523 rows and 12 columns.
 
-### Data:
-Data can include source and high-level description (e.g. # obs)
+## To prepare this data, the data was cleaned, and the following processes were performed:
 
-
-## Methods
-- Data preparation steps with explanation and justification for choices
-- 
-
-## Results
-
-### Here are examples of how to embed images from your sub-folder
-
+### Exploratory Data Analysis:
 
 #### Visual 1 Title
 ![sample image](project1_sample_image.png)
@@ -49,4 +42,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **haouari_ahmed_anas@gmail.com**
